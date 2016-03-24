@@ -1,0 +1,9 @@
+/* Empty. Add your own CSS if you like */
+.profile {
+	background: url(../img/gd.png) repeat;
+}
+.profile .bar-header {
+	background: transparent;
+  border: none;
+  color: #fff;
+}
